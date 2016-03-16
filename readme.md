@@ -10,7 +10,6 @@ I like ideal solutions. The equations and algos used in these programs are for b
 
 ### Running
 
-You'll need GCC...or any compiler that can interpret and run a .C file
 ```sh
 $ gcc multirotorcot.c
 ```
